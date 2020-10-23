@@ -13,7 +13,9 @@ COVID_19 County Fatality Rates for the Southern Region of the US
     Roger DeAngelis                                                                                                                    
                                                                                                                                        
     10/14/2020                                                                                                                         
-                                                                                                                                       
+             
+    Youtube  
+    https://youtu.be/qi-H68lHrn4
                                                                                                                                        
     Github PDF report                                                                                                                  
     https://tinyurl.com/y2fdurtk                                                                                                       
